@@ -6,5 +6,5 @@
   [Desktop Entry]
   Name=Conky
   Type=Application
-  Exec=cd ~/.conky/conky.conf
+  Exec=cd /home/your_user_name/.conky/conky.conf
   ```
