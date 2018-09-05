@@ -1,5 +1,5 @@
 # installation
-  clone repo: git clone https://github.com/aeternum1234/conky.git ~/.conky
+  clone repo: git clone https://github.com/ambersun1234/conky.git ~/.conky
 # autostart
   create a new file "conky.desktop" in "~/.config/autostart" directory and fill it in the following contents:
   ```
